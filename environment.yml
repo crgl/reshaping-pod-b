@@ -1,0 +1,14 @@
+name: reshaping-pod-b
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - openpyxl
+  - python=3.8.13
+  - pandas
+  - scipy
+  - seaborn
+  - seaborn-base
+  - statsmodels>=0.11
+  - lxml
